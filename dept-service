@@ -1,5 +1,5 @@
 spring.application.name=dept-service
-feign.student.client.url=http://localhost:8088
+feign.student.client.url=http://localhost:8088/student
 
 spring.datasource.url=jdbc:mysql://127.0.0.1:3306/poc_uni
 spring.datasource.username=root
