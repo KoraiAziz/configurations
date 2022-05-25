@@ -1,0 +1,4 @@
+server.port=8088
+spring.application.name=student-service
+user.feign.client.url=http://localhost:8090/api
+logging.level.com.anb.studentservice.client.StudentFeignClient= DEBUG
